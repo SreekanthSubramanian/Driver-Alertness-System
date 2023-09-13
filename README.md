@@ -39,8 +39,4 @@ S. No. | Model | Accuracy |
 - Ultimately, due to many such improvements done in the final model, it significantly outperforms the baseline model in terms of detection
 
 
-``` cmd
-$git clone https://github.com/neelabhsinha/Drowsiness-Detection-in-Drivers-using-Deep-Learning.git
-$cd Drowsiness-Detection-in-Drivers-using-Deep-Learning
-$jupyter notebook
-```
+
