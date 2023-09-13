@@ -38,13 +38,6 @@ S. No. | Model | Accuracy |
 - Features like dropout, regularization, etc. allows us to make the model more robust
 - Ultimately, due to many such improvements done in the final model, it significantly outperforms the baseline model in terms of detection
 
-## Steps to execute the code in this reposirory:
-
-1. Install Anaconda Distribution and all relevant libraries
-
-2. Get the licensed NTHU DDD Dataset
-
-3. Open up the terminal and type -
 
 ``` cmd
 $git clone https://github.com/neelabhsinha/Drowsiness-Detection-in-Drivers-using-Deep-Learning.git
