@@ -10,20 +10,11 @@ Two models are developed in this project, they are described as follows -
 
 - **Baseline Model** - This is a standard model built and trained from scratch on the mentioned dataset to detect drowsiness. There is no concept of transfer learning involved.
 
-<img src="/Model & Training Results/Baseline_Model.png" align="center" width="30%"/>
-
-
 - **Final Model** - This model is built in such a way that initial layers are that of the VGG-16 Model, pre-trained on imagenet weights. The initial layers are frozen for training, allowing us to fine-tune the later layers for effective feature recognition. The recognized features are then fed to a dense network for classification.
-
-<img src="/Model & Training Results/Final_Model.png" align="center" width="30%"/>
 
 ## Training -
 
 The results of training accuracies vs. epochs are shown below. Complete details of architecture and results can be viewed from the [Model & Training Results](https://github.com/neelabhsinha/Drowsiness-Detection-in-Drivers-using-Deep-Learning/tree/master/Model%20%26%20Training%20Results) folder. Figure 1 is of Baseline Model, and Figure 2 is of Final Model.
-
-
-<img src="/Model & Training Results/Baseline_Acc.png" align="center" width="40%"/>
-<img src="/Model & Training Results/Final_acc.png" align="center" width="40%"/>
 
 ## Results & Conclusions - 
 
