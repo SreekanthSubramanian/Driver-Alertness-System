@@ -14,7 +14,7 @@ Two models are developed in this project, they are described as follows -
 
 ## Training -
 
-The results of training accuracies vs. epochs are shown below. Complete details of architecture and results can be viewed from the [Model & Training Results](https://github.com/neelabhsinha/Drowsiness-Detection-in-Drivers-using-Deep-Learning/tree/master/Model%20%26%20Training%20Results) folder. Figure 1 is of Baseline Model, and Figure 2 is of Final Model.
+The results of training accuracies vs. epochs are shown below. Complete details of architecture and results can be viewed from the [Model & Training Results](https://github.com/SreekanthSubramanian/Driver-Alertness-System/tree/main/Model%20%26%20Training%20Results) folder.
 
 ## Results & Conclusions - 
 
