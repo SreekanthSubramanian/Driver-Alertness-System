@@ -20,8 +20,8 @@ The results of training accuracies vs. epochs are shown below. Complete details 
 
 S. No. | Model | Accuracy |
 -------|------|----------|
-1 | Baseline Model | 68.6% |
-2 | Final Model | 73.2 % |
+1 | Baseline Model | 78.6% |
+2 | Final Model | 85.2 % |
 
 - VGG16 model identifies features more effectively than the engineered baseline model because of more depth in the architecture, which allows it to identifiy both lower level and higher level features 
 - Transfer learning helps us to make the training faster as the initial layers are used to identify local features only, which are same for almost all models. So, freezing the initial layers allows us to speed-up the training remarkably
